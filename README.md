@@ -36,7 +36,7 @@ Check out the live demo of the application at  https://ajaypratap4015.github.io/
 
 ## Authors
 
-- [@gamerspirit](https://github.com/gamerspirit)
+- [@Ajaypratap4015](https://github.com/Ajaypratap4015)
 
 ## Acknowledgments
 
